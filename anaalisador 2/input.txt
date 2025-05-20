@@ -1,0 +1,7 @@
+x = 3;
+y = 5;
+console.log(x + y);
+do {
+  x = x + 1;
+  console.log(x);
+} while (x < 6);
